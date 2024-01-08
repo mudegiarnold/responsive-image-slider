@@ -122,7 +122,7 @@ body {
 }
 
 /* Styles for mobile and tablet */
-@media only screen and (max-width: 1023px) {
+@media only screen and (max-width: 390px) {
     .slider-wrapper .slide-button {
         display: none !important;
     }
