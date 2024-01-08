@@ -1,2 +1,2 @@
 # responsive-image-slider
-Asimple responsive image silder in HTML,CSS and JavaScript 
+The <h2>Responsive Image Slide</h1> is a webpage showcasing a responsive image slider component. This component is designed to seamlessly adapt to various screen sizes, providing an optimal viewing experience for users across devices.
